@@ -70,7 +70,7 @@
     "globals": "^9.2.0",
     "ignore": "^3.1.5",
     "imurmurhash": "^0.1.4",
-    "inquirer": "^0.12.0",
+    "inquirer": "^7.0.5",
     "is-my-json-valid": "^2.10.0",
     "is-resolvable": "^1.0.0",
     "js-yaml": "^3.5.1",
@@ -87,7 +87,7 @@
     "shelljs": "^0.6.0",
     "strip-bom": "^3.0.0",
     "strip-json-comments": "~1.0.1",
-    "table": "^3.7.8",
+    "table": "^5.4.2",
     "text-table": "~0.2.0",
     "user-home": "^2.0.0"
   },
